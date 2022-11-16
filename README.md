@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tobe Nwosu</h1>
 <h3 align="center">A passionate Frontend Developer based in London</h3>
 
-<img align="right" width="300" height="300" src="https://cdn.dribbble.com/users/668488/screenshots/4711850/remote-working-illustration.jpg">
+<img align="right" width="400" height="400" src="https://cdn.dribbble.com/users/668488/screenshots/4711850/remote-working-illustration.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tobe-nwosu&label=Profile%20views&color=0e75b6&style=flat" alt="tobe-nwosu" /> </p>
 
