@@ -26,6 +26,3 @@
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tobe-nwosu&show_icons=true&locale=en&layout=compact" alt="tobe-nwosu" /></p>
-<br>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tobe-nwosu&show_icons=true&locale=en" alt="tobe-nwosu" /></p>
