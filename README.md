@@ -1,8 +1,8 @@
-![MasterHead](https://t4.ftcdn.net/jpg/03/08/82/39/360_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg)
+![MasterHead](https://img.freepik.com/free-vector/frontend-developer-typographic-header-website-interface-design-improvement-web-page-programming-coding-testing-it-profession-isolated-flat-vector-illustration_613284-304.jpg?w=2000)
 <h1 align="center">Hi 👋, I'm Tobe Nwosu</h1>
 <h3 align="center">A passionate Frontend Developer based in London</h3>
 
-<img align=“right” al=“coding” width=“400” src=“https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif”>
+<img align= “right” alt= “coding” width= “400” src="https://static.vecteezy.com/system/resources/previews/004/634/916/non_2x/happy-productive-employee-semi-flat-color-character-posing-figure-full-body-person-on-white-corporate-work-isolated-modern-cartoon-style-illustration-for-graphic-design-and-animation-vector.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tobe-nwosu&label=Profile%20views&color=0e75b6&style=flat" alt="tobe-nwosu" /> </p>
 
